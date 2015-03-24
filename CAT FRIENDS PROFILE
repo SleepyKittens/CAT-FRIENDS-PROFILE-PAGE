@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
+    <title>CAT FRIENDS</title>
+    <link rel='stylesheet' href='stylesheet.css'>
+  </head>
+  <div class='littletitlebox'></div>
+  <div class='littletitleboxline'></div>
+  <div class='littletitle'> CAT FRIENDS</div>
+  <a class='showprofile'> PROFILE +</div>
+  <a class='showbrowse'> BROWSE +</div>
+  <a class='createnewcat'> ADD CAT FRIENDS</div>
+  <div class='profilename'> Georgia</div>
+  <div class='profilenameline'></div>
+  <div class='profilepic1'></div>
+  <div class='profilepic2'></div>
+  <div class='favouritefood'> Blue Cheese</div>
+  <div class='favouritetoy'> String</div>
+  <div class='profilelocation'> Vancouver, BC</div>
+  <div class='profileage'> 6 years old</div>
+  <body>
+  </body>
+</html>
